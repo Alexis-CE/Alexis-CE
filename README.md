@@ -17,12 +17,7 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,mysql,linux,git,vscode" />
 </p>
 
-### Estadísticas
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alexis-CE&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alexis-CE&theme=github_dark" />
-</p>
+### Racha de contribuciones
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alexis-CE&theme=radical&border_radius=4.5&hide_border=true" />
